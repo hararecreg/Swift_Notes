@@ -49,6 +49,7 @@
 		3993E3492936F0C9007558A1 /* SwiftNotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftNotesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3993E34D2936F0C9007558A1 /* SwiftNotesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftNotesUITests.swift; sourceTree = "<group>"; };
 		3993E34F2936F0C9007558A1 /* SwiftNotesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftNotesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3993E35C2936F110007558A1 /* TiposDeDatos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TiposDeDatos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +107,7 @@
 				3993E3352936F0C8007558A1 /* Assets.xcassets */,
 				3993E3372936F0C8007558A1 /* LaunchScreen.storyboard */,
 				3993E33A2936F0C8007558A1 /* Info.plist */,
+				3993E35C2936F110007558A1 /* TiposDeDatos.playground */,
 			);
 			path = SwiftNotes;
 			sourceTree = "<group>";
